@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "placa_prueba_bq24780s_sch_symbols")(type "KiCad")(uri "${KIPRJMOD}/placa_prueba_bq24780s_sch_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "project_sch_symbols")(type "KiCad")(uri "${KIPRJMOD}/libraries/project_sch_symbols.kicad_sym")(options "")(descr ""))
+)
