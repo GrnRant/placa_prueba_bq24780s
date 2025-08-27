@@ -1,13 +1,11 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_descarga.net
-Start Time: Wed Aug 20 20:16:48 2025
+Start Time: Sun Aug 24 00:03:51 2025
 solver = Normal
-Maximum thread count: 8
+Maximum thread count: 12
 tnom = 27
 temp = 27
 method = trap
-Model "pmosd": Oxide thickness thinner than recommended for a level 1 MOSFET.
-Instance "m1:M2": Length shorter than recommended for a level 1 MOSFET.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
@@ -19,30 +17,30 @@ Gmin = 0.000142725
 vernier = 0.5
 vernier = 0.25
 vernier = 0.125
-Gmin = 8.33655e-05
 vernier = 0.0625
+Gmin = 0.000132263
 vernier = 0.03125
 vernier = 0.0416667
-Gmin = 8.09936e-05
+Gmin = 0.000123957
 vernier = 0.0555555
-Gmin = 7.1533e-05
 vernier = 0.074074
+Gmin = 0.000107743
 vernier = 0.0987653
-Gmin = 5.81193e-05
+Gmin = 8.64878e-05
 vernier = 0.131687
 vernier = 0.175583
-Gmin = 4.18231e-05
+Gmin = 5.99683e-05
 vernier = 0.23411
-Gmin = 2.50365e-05
 vernier = 0.312147
+Gmin = 3.3661e-05
 vernier = 0.416196
-Gmin = 1.07354e-05
+Gmin = 1.37614e-05
 vernier = 0.554928
 vernier = 0.739903
-Gmin = 2.8767e-06
+Gmin = 3.20108e-06
 vernier = 0.986537
-Gmin = 3.88707e-07
 vernier = 1
+Gmin = 3.88707e-07
 Gmin = 4.17371e-08
 vernier = 0.5
 vernier = 0.25
@@ -66,38 +64,6 @@ Source Step = 63.6364%
 Source Step = 88.6364%
 vernier = 0.0625
 Source Step = 87.8995%
-Source Step = 87.9291%
-Source Step = 87.9587%
-Source Step = 87.9883%
-Source Step = 88.0179%
-Source Step = 88.0475%
-vernier = 0.00146484
-Source Step = 88.0904%
-Source Step = 88.1348%
-Source Step = 88.1792%
-Source Step = 88.2235%
-Source Step = 88.2679%
-vernier = 0.00219727
-Source Step = 88.3301%
-Source Step = 88.3967%
-Source Step = 88.4632%
-Source Step = 88.5298%
-Source Step = 88.5964%
-vernier = 0.0032959
-Source Step = 88.6863%
-Source Step = 88.7862%
-Source Step = 88.8861%
-Source Step = 88.9859%
-Source Step = 89.0858%
-vernier = 0.00494385
-Source Step = 89.2156%
-Source Step = 89.3655%
-Source Step = 89.5153%
-Source Step = 89.6651%
-Source Step = 89.8149%
-vernier = 0.00741577
-Source Step = 90.0022%
-Source Step = 90.1876%
 Starting source stepping with srcstepmethod=1
 Source Step = 3.0303%
 Source Step = 33.3333%
@@ -106,11 +72,12 @@ Source Step = 88.6364%
 vernier = 0.0625
 Source stepping failed
 
-Pseudo transient terminated at 102.519 s, solution accepted ready or not!
-Total elapsed time: 2.526 seconds.
+Pseudo Transient succeeded in finding the operating point at 2.31292 s.
+Total elapsed time: 0.792 seconds.
 
 Files loaded:
 C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_descarga.net
+C:\Users\German\AppData\Local\LTspice\lib\cmp\standard.bjt
 C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\lmx58_lm2904.lib
 C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\CSD17308Q3.lib
 
