@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_descarga_sziklai_aol.net
-Start Time: Fri Aug 29 19:52:16 2025
+Start Time: Fri Aug 29 19:59:27 2025
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -166,7 +166,7 @@ Source Step = 99.1958%
 Source Step = 99.8357%
 Source stepping succeeded in finding the operating point.
 
-Total elapsed time: 3.535 seconds.
+Total elapsed time: 3.468 seconds.
 
 Files loaded:
 C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_descarga_sziklai_aol.net
