@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_descarga_sziklai.net
-Start Time: Fri Aug 29 20:01:57 2025
+Start Time: Wed Sep  3 19:55:47 2025
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -69,104 +69,16 @@ Source Step = 63.6364%
 Source Step = 88.6364%
 vernier = 0.0625
 Source Step = 87.8995%
-Source Step = 87.9291%
-Source Step = 87.9587%
-Source Step = 87.9883%
-Source Step = 88.0179%
-vernier = 0.00146484
-Source Step = 88.0519%
-Source Step = 88.0963%
-Source Step = 88.1407%
-Source Step = 88.1851%
-Source Step = 88.2295%
-vernier = 0.00219727
-Source Step = 88.2783%
-Source Step = 88.3449%
-Source Step = 88.4115%
-Source Step = 88.478%
-Source Step = 88.5446%
-vernier = 0.0032959
-Source Step = 88.6145%
-Source Step = 88.7144%
-Source Step = 88.8143%
-Source Step = 88.9142%
-Source Step = 89.014%
-Source Step = 89.1139%
-vernier = 0.00494385
-Source Step = 89.2637%
-Source Step = 89.4135%
-Source Step = 89.5634%
-Source Step = 89.7132%
-Source Step = 89.863%
-vernier = 0.00741577
-Source Step = 90.0072%
-Source Step = 90.0634%
-Source Step = 90.1195%
-Source Step = 90.1757%
-Source Step = 90.2319%
-Source Step = 90.2881%
-Source Step = 90.3443%
-Source Step = 90.4004%
-Source Step = 90.4566%
-Source Step = 90.5128%
-Source Step = 90.569%
-Source Step = 90.6252%
-Source Step = 90.6813%
-Source Step = 90.7375%
-Source Step = 90.7937%
-Source Step = 90.8499%
-Source Step = 90.9061%
-Source Step = 90.9622%
-Source Step = 91.0184%
-Source Step = 91.0746%
-Source Step = 91.1308%
-Source Step = 91.187%
-Source Step = 91.2431%
-Source Step = 91.2993%
-Source Step = 91.3555%
-Source Step = 91.4117%
-Source Step = 91.4679%
-Source Step = 91.524%
-Source Step = 91.5802%
-vernier = 0.00278091
-Source Step = 91.6504%
-Source Step = 91.7347%
-Source Step = 91.819%
-Source Step = 91.9033%
-Source Step = 91.9875%
-vernier = 0.00417137
-Source Step = 92.0887%
-Source Step = 92.2151%
-Source Step = 92.3415%
-Source Step = 92.4679%
-Source Step = 92.5943%
-vernier = 0.00625706
-Source Step = 92.7396%
-Source Step = 92.9292%
-Source Step = 93.1189%
-Source Step = 93.3085%
-Source Step = 93.4981%
-vernier = 0.00938559
-Source Step = 93.7066%
-Source Step = 93.9911%
-Source Step = 94.2755%
-Source Step = 94.5599%
-Source Step = 94.8443%
-vernier = 0.0140784
-Source Step = 95.1429%
-Source Step = 95.5695%
-Source Step = 95.9962%
-Source Step = 96.4228%
-Source Step = 96.8494%
-Source Step = 97.276%
-vernier = 0.0211176
-Source Step = 97.9159%
-Source Step = 98.5559%
-Source Step = 99.1958%
-Source Step = 99.8357%
-Source stepping succeeded in finding the operating point.
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 88.6364%
+vernier = 0.0625
+Source stepping failed
 
-Total elapsed time: 4.457 seconds.
+Pseudo Transient succeeded in finding the operating point at 2.31274 s.
+Total elapsed time: 1.878 seconds.
 
 Files loaded:
 C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_descarga_sziklai.net
