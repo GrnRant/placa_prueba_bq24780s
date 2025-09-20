@@ -1,0 +1,49 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_carga_descarga_ac_imp.net
+Start Time: Fri Sep 19 21:07:51 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Instance "u4:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u4:M6": Length shorter than recommended for a level 2 MOSFET.
+Instance "u4:M1": Length shorter than recommended for a level 2 MOSFET.
+Instance "u4:M2": Length shorter than recommended for a level 2 MOSFET.
+Instance "u4:M3": Length shorter than recommended for a level 2 MOSFET.
+Instance "u4:M4": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M6": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M1": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M2": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M3": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M4": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.501 seconds.
+
+Files loaded:
+C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_carga_descarga_ac_imp.net
+C:\Users\German\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\lmx58_lm2904.lib
+C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\CSD17308Q3.lib
+C:\Users\German\AppData\Local\LTspice\lib\sub\AD8601.lib
+
