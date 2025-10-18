@@ -1,8 +1,8 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_carga_descarga_ac_imp.net
-Start Time: Tue Oct 14 20:51:31 2025
+Start Time: Thu Oct 16 18:55:29 2025
 solver = Normal
-Maximum thread count: 12
+Maximum thread count: 8
 tnom = 27
 temp = 27
 method = trap
@@ -61,46 +61,40 @@ vernier = 0.115479
 vernier = 0.0577396
 vernier = 0.0288698
 vernier = 0.0144349
-Gmin = 5.58547e-05
-vernier = 0.00721745
-vernier = 0.00962327
-Gmin = 5.48901e-05
-vernier = 0.012831
-Gmin = 5.33303e-05
-vernier = 0.017108
-vernier = 0.0228107
-Gmin = 5.0813e-05
-vernier = 0.0304143
-vernier = 0.0405523
-Gmin = 4.70474e-05
-vernier = 0.0540698
-Gmin = 4.16894e-05
-vernier = 0.072093
-vernier = 0.096124
-Gmin = 3.40586e-05
-vernier = 0.128165
-vernier = 0.170887
-Gmin = 2.47219e-05
-vernier = 0.227849
-Gmin = 1.49986e-05
+Gmin = 5.52691e-05
+vernier = 0.0192465
+Gmin = 5.29318e-05
+vernier = 0.025662
+vernier = 0.0342161
+Gmin = 4.9233e-05
+vernier = 0.0456214
+vernier = 0.0608285
+Gmin = 4.3873e-05
+vernier = 0.0811047
+Gmin = 3.66161e-05
+vernier = 0.10814
+vernier = 0.144186
+Gmin = 2.70797e-05
+vernier = 0.192248
+vernier = 0.25633
+Gmin = 1.68118e-05
+vernier = 0.341774
+Gmin = 8.01804e-06
+vernier = 0.455698
+vernier = 0.607598
+Gmin = 2.38383e-06
 vernier = 0.303799
-vernier = 0.405065
-Gmin = 6.57248e-06
-vernier = 0.540087
-vernier = 0.720115
-Gmin = 1.82027e-06
-vernier = 0.360058
-vernier = 0.180029
-vernier = 0.0900144
-vernier = 0.0450072
-vernier = 0.0225036
-vernier = 0.0112518
-vernier = 0.0056259
-vernier = 0.00281295
-vernier = 0.00140648
-vernier = 0.000703238
-Gmin = 2.14797e-06
-vernier = 0.000527428
+vernier = 0.151899
+vernier = 0.0759497
+vernier = 0.0379749
+vernier = 0.0189874
+vernier = 0.00949371
+vernier = 0.00474686
+vernier = 0.00237343
+Gmin = 2.06948e-06
+vernier = 0.00118671
+vernier = 0.000593357
+vernier = 0.000445018
 Gmin = 0
 Gmin stepping failed
 
@@ -152,6 +146,14 @@ Source Step = 78.4453%
 vernier = 0.266968
 Source Step = 86.5353%
 Source Step = 89.7776%
+Source Step = 89.8092%
+Source Step = 89.8408%
+Source Step = 89.8724%
+Source Step = 89.904%
+Source Step = 89.9356%
+vernier = 0.00156426
+Source Step = 89.9814%
+Source Step = 90.0288%
 Starting source stepping with srcstepmethod=1
 Source Step = 3.0303%
 Source Step = 33.3333%
@@ -160,11 +162,8 @@ Source Step = 88.6364%
 vernier = 0.0625
 Source stepping failed
 
-Pseudo Transient failed in finding the operating point at 14.1122 s.
-Trouble finding operating point....skipping operating point for Transient analysis.
-
-Simulation stopped by user.
-Total elapsed time: 1450.305 seconds.
+Pseudo Transient succeeded in finding the operating point at 6.52394 s.
+Total elapsed time: 35.148 seconds.
 
 Files loaded:
 C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_carga_descarga_ac_imp.net
