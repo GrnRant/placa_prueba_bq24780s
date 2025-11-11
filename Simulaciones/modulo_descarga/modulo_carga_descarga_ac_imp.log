@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_carga_descarga_ac_imp.net
-Start Time: Fri Oct 31 20:04:03 2025
+Start Time: Fri Nov  7 20:32:44 2025
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -39,34 +39,46 @@ vernier = 0.369952
 Gmin = 0.00227631
 vernier = 0.184976
 vernier = 0.0924879
-Gmin = 0.00159402
 vernier = 0.046244
+Gmin = 0.00178171
 vernier = 0.023122
 vernier = 0.011561
 vernier = 0.00578049
 vernier = 0.00289025
-Gmin = 0.0016297
 vernier = 0.00144512
 vernier = 0.000722562
+Gmin = 0.00175123
 vernier = 0.000541921
 vernier = 0.000406441
-Gmin = 0.00162977
 Gmin = 0
 Gmin stepping failed
 
 Starting source stepping with srcstepmethod=0
 Source Step = 3.0303%
-Source Step = 18.9394%
-Source Step = 26.5152%
-Source Step = 34.0909%
-Source Step = 41.6667%
-Source Step = 49.2424%
-vernier = 0.375
-Source Step = 58.3333%
-Source Step = 69.697%
-Source Step = 81.0606%
-Source Step = 89.0862%
-vernier = 0.00585938
+Source Step = 19.8864%
+Source Step = 21.7803%
+Source Step = 23.6742%
+Source Step = 25.5682%
+Source Step = 27.4621%
+Source Step = 29.3561%
+vernier = 0.09375
+Source Step = 32.197%
+Source Step = 35.0379%
+Source Step = 37.8788%
+Source Step = 40.7197%
+Source Step = 43.5606%
+vernier = 0.140625
+Source Step = 47.6799%
+Source Step = 51.9413%
+Source Step = 56.2027%
+Source Step = 60.464%
+Source Step = 64.7254%
+vernier = 0.210938
+Source Step = 70.6913%
+Source Step = 77.0833%
+Source Step = 83.4754%
+Source Step = 89.8674%
+Source Step = 89.9373%
 Starting source stepping with srcstepmethod=1
 Source Step = 3.0303%
 Source Step = 33.3333%
@@ -75,8 +87,8 @@ Source Step = 88.6364%
 vernier = 0.0625
 Source stepping failed
 
-Pseudo Transient succeeded in finding the operating point at 547.941 ms.
-Total elapsed time: 6.149 seconds.
+Pseudo Transient succeeded in finding the operating point at 2.15954 s.
+Total elapsed time: 27.468 seconds.
 
 Files loaded:
 C:\Users\German\Documents\placa_prueba_bq24780s\Simulaciones\modulo_descarga\modulo_carga_descarga_ac_imp.net
